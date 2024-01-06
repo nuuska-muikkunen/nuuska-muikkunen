@@ -1,7 +1,7 @@
 Hi 👋 My name is Boris Sturua
 =============================
 
-Java developer (junior)
+Student Java-developer @Hexlet
 -----------------------
 
 * 🌍  I'm based in Moscow
