@@ -6,7 +6,7 @@ Java-developer
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [sgb65@mail.ru](mailto:sgb65@mail.ru)
-* 🧠  Educated at [Hexlet](https://ru.hexlet.io/)  course "Java Development"
+* 🧠  Working as junior programmer in [Cinimex](www.cinimex.ru)
 * 🤝  I'm open to collaborating on java projects
 * 🎓  Graduated from Moscow State University, dep-t Calculating Mathematics and Cybernetics
 
